@@ -1,4 +1,5 @@
 # Basic Math Problems for Coding
+## Basic
 ### 1. Check Prime Number
 ### 2. Check Even or Odd
 ### 2. Multiplication Table
